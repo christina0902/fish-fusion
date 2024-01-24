@@ -24,4 +24,4 @@ chefsFishies = chefsFish(dailyPriceLimit, fishForSale, database.filteredMongMenu
 menu = fishMenu(chefsFishies)
 console.log(menu)
 
-const kelsey = "kelsey"
+const kelsey = "kelsey jordan mcnutt"
