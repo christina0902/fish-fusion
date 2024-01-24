@@ -27,3 +27,6 @@ console.log(menu)
 const kelsey = "kelsey jordan mcnutt"
 
 const newComment = "did it work?"
+const josh = "josh"
+
+const christina = "christina"
