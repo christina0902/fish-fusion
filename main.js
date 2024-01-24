@@ -25,3 +25,5 @@ menu = fishMenu(chefsFishies)
 console.log(menu)
 
 const kelsey = "kelsey jordan mcnutt"
+
+const newComment = "did it work?"
